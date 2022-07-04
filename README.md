@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
+
 <a href="https://www.notion.so/9ec0de93c06b4404a53795207064082c?v=02343f7e501241d1937f252640b685b4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
