@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&layout=compact)](https://github.com/dd-jero/github-readme-stats)
+#3776AB
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white 
