@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ![Instagram](https://img.shields.io/badge/jae0.02-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/boutljy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 >> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&layout=compact)](https://github.com/dd-jero/github-readme-stats)<br/>
 ![jae young's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jero&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&layout=compact)](https://github.com/dd-jero/github-readme-stats)
 
