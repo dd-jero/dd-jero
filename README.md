@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>\n
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
