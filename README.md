@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 <br>
+**Jae Young_Lee**
 
 <!--
 **dd-jero/dd-jero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
