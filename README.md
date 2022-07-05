@@ -1,24 +1,16 @@
-### Hi there 👋 <br>
-**Jae Young_Lee**
+# <center>  Hi👋 <br>
+### <center> _**Jae Young_Lee**_  
 
-<!--
-**dd-jero/dd-jero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+### <span style='background-color:#fff5b1'> *_STUDYING..._*
+><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a></br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a><br/>
-<a href="https://www.notion.so/9ec0de93c06b4404a53795207064082c?v=02343f7e501241d1937f252640b685b4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+### <span style='background-color:#fff5b1'> *_USED..._*
+><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black"/></a>
+><img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=yellow"/></a>
+### <span style='background-color:#fff5b1'> *_INFORMATION_*
+><a href="https://www.notion.so/9ec0de93c06b4404a53795207064082c?v=02343f7e501241d1937f252640b685b4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 [![Instagram](https://img.shields.io/badge/jae0.02-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jae0.02/)
 ![Gmail](https://img.shields.io/badge/boutljy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
->> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
 ![jae young's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jero&show_icons=true&theme=highcontrast)
