@@ -1,6 +1,6 @@
 <div align="center">
-#Hi👋 <br>
-###_**Jae Young_Lee**_ 
+# Hi👋 <br>
+### _**Jae Young_Lee**_ 
 
 ### <span style='background-color:#fff5b1'> *_STUDYING..._*
 ><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
