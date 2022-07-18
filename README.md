@@ -1,5 +1,5 @@
 # <center>  Hi👋 <br>
-### <center> _**Jae Young_Lee**_  
+### <center> _**Jae Young_Lee**_ <center>
 
 ### <span style='background-color:#fff5b1'> *_STUDYING..._*
 ><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
