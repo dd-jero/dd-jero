@@ -14,7 +14,7 @@
 ><a href="https://www.notion.so/9ec0de93c06b4404a53795207064082c?v=02343f7e501241d1937f252640b685b4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 [![Instagram](https://img.shields.io/badge/jae0.02-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jae0.02/)
 ![Gmail](https://img.shields.io/badge/boutljy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</br>
-![boutljy0407](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=boutljy0407&theme=github-dark&size=medium&compact=1&use_back_color=1&use_border=1&use_shadow=0)](https://www.acmicpc.net/user/boutljy0407)<br/>
+![boutljy0407](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=boutljy0407&theme=github-dark&size=medium&compact=1&use_back_color=1&use_border=1&use_shadow=0)]([https://www.acmicpc.net/user/boutljy0407](https://solved.ac/profile/boutljy0407))
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
 ![jae young's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jero&show_icons=true&theme=highcontrast)
 </div>
