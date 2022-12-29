@@ -3,11 +3,10 @@
 # Hi👋 <br>
 #### _**Jae Young_Lee**_ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdd-jero&count_bg=%23FF0000&title_bg=%230016FF&icon=probot.svg&icon_color=%23E7E7E7&title=Jero&edge_flat=true)](https://hits.seeyoufarm.com)
-### <span style='background-color:#fff5b1'> *_STUDYING..._*
+### <span style='background-color:#fff5b1'> *_Language_*
 ><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+### <span style='background-color:#fff5b1'> *_Framework_*
 ><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a></br>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a><br/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a><br/>
 ### <span style='background-color:#fff5b1'> *_USED..._*
 ><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black"/></a>
 ><img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=yellow"/></a>
