@@ -6,7 +6,8 @@
 ### <span style='background-color:#fff5b1'> *_Language_*
 ><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 ### <span style='background-color:#fff5b1'> *_Framework_*
-><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a></br>
+><img src="https://img.shields.io/badge/TensorFlow-#D00000?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a></br>
+><img src="https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=Keras&logoColor=white"/></a></br>
 ### <span style='background-color:#fff5b1'> *_USED..._*
 ><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black"/></a>
 ><img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=yellow"/></a>
