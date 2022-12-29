@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdd-jero&count_bg=%23FF0000&title_bg=%230016FF&icon=probot.svg&icon_color=%23E7E7E7&title=Jero&edge_flat=true)](https://hits.seeyoufarm.com)
 ### <span style='background-color:#fff5b1'> *_Language_*
 ><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
- ><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white"/></a>
+ ><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>
  
 ### <span style='background-color:#fff5b1'> *_Framework_*
 ><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
