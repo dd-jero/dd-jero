@@ -9,12 +9,14 @@
  
 ### <span style='background-color:#fff5b1'> *_Framework_*
 ><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
-><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a></br>
+><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>
 ><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"/></a>
+>><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/></a>
 
 ### <span style='background-color:#fff5b1'> *_USED..._*
 ><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black"/></a>
 ><img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=yellow"/></a>
+
 ### <span style='background-color:#fff5b1'> *_INFORMATION_*
 ><a href="https://www.notion.so/9ec0de93c06b4404a53795207064082c?v=02343f7e501241d1937f252640b685b4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 [![Instagram](https://img.shields.io/badge/jae0.02-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jae0.02/)
