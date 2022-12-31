@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&text=Welcome!_jy&fontSize=45&animation=blinking"> 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&text=Welcome!_jy&fontSize=45&animation=blinking&fontColor=FFEBCD"> 
 
 ><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 ><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
