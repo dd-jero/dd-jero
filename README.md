@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Welcome!&fontSize=45&animation=blink"/> 
-# Hi👋 <br>
-## _**Jae Young_Lee**_ <br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Welcome!&fontSize=45&animation=blink"> 
+# Hi👋 <br></a>
+## _**Jae Young_Lee**_ <br></a>
 ><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 ><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
 ><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>
