@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=Hello!&desc=Lee%20Jae%20Young&descAlignY=80"> 
 
-><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
-><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>
 ### <span style='background-color:#fff5b1'> *_Language_*
 ><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 ><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
@@ -18,8 +15,11 @@
 ### <span style='background-color:#fff5b1'> *_USED..._*
 ><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black"/></a>
 ><img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=yellow"/></a>
-
-### <span style='background-color:#fff5b1'> *_INFORMATION_*
+>-----------------------------------------------------------------------------------------------------------------
+><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
+><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>
+>-----------------------------------------------------------------------------------------------------------------
 ><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 ><a href="https://www.notion.so/9ec0de93c06b4404a53795207064082c?v=02343f7e501241d1937f252640b685b4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 [![Instagram](https://img.shields.io/badge/jae0.02-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jae0.02/)
