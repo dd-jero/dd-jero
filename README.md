@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20_jaeyoung_&fontSize=90"/> 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome!&fontSize=45"/> 
 # Hi👋 <br>
 ## _**Jae Young_Lee**_ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdd-jero&count_bg=%23FF0000&title_bg=%230016FF&icon=probot.svg&icon_color=%23E7E7E7&title=Jero&edge_flat=true)](https://hits.seeyoufarm.com)
