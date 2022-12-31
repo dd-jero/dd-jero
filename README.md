@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome!&fontSize=45"/> 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Welcome!&fontSize=45&animation=blink"/> 
 # Hi👋 <br>
 ## _**Jae Young_Lee**_ 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdd-jero&count_bg=%23FF0000&title_bg=%230016FF&icon=probot.svg&icon_color=%23E7E7E7&title=Jero&edge_flat=true)](https://hits.seeyoufarm.com)
 ><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 ><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
 ><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>
