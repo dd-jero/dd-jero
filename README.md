@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=Hello!&desc=Lee%20Jae%20Young&descAlignY=80"> 
-<hr/></a>
+<hr/>
+ 
 ### <span style='background-color:#fff5b1'> *_Language_*
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
