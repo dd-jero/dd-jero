@@ -28,7 +28,6 @@
 <hr/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
-![jae young's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jero&show_icons=true&theme=highcontrast)
 </div>
 
 
