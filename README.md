@@ -27,6 +27,7 @@
 ![Gmail](https://img.shields.io/badge/boutljy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</br>
 <hr/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
 </div>
 
