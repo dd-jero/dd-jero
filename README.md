@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)<br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={dd-jero}&show_icons=true&theme={theme})](https://github.com/{dd-jero}/github-readme-stats)<br/>
+[![Jaeyoung's github stats](https://github-readme-stats.vercel.app/api?username=dd-jero&show_icons=true&theme={theme})](https://github.com/dd-jero/github-readme-stats)<br/>
 </div>
 
 
