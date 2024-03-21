@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=Hello!&desc=Lee%20Jae%20Young&descAlignY=80"> 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=환영합니다!&desc=Dev.Jaeyeong&descAlignY=80"> 
 <hr/>
  
 ### <span style='background-color:#fff5b1'> *_Language_*
