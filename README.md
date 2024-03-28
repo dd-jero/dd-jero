@@ -5,8 +5,7 @@
 ### <span style='background-color:#fff5b1'> *_Language_*
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/Java-FF7900?style=plastic&logo=OpenJDK&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=ffdd54"/></a>
-<img src="https://img.shields.io/badge/C%23-512BD4.svg?style=plastic&logo=csharp&logoColor=ffdd54"/></a>
+
  
 ### <span style='background-color:#fff5b1'> *_Framework_*
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=white"/></a>
@@ -15,6 +14,8 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white"/></a>
 
 ### <span style='background-color:#fff5b1'> *_Used_*
+<img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=ffdd54"/></a>
+<img src="https://img.shields.io/badge/C%23-512BD4.svg?style=plastic&logo=csharp&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Autodesk-0696D7?style=plastic&logo=Autodesk&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=yellow"/></a>
