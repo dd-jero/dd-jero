@@ -1,7 +1,8 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=환영합니다!&desc=Dev.Jaeyeong&descAlignY=80"> 
 <hr/>
- 
+
 ### <span style='background-color:#fff5b1'> *_Language_*
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/Java-FF7900?style=plastic&logo=OpenJDK&logoColor=ffdd54"/>
@@ -16,9 +17,8 @@
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=Numpy&logoColor=white"/></a>
-
+ 
 ### <span style='background-color:#fff5b1'> *_Environment_*
-
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/></a>
 
@@ -33,8 +33,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.notion.so/9ec0de93c06b4404a53795207064082c?v=02343f7e501241d1937f252640b685b4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/></a>
+
+### <span style='background-color:#fff5b1'> *_Information_*
 [![Instagram](https://img.shields.io/badge/jae0.02-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jae0.02/)
 ![Gmail](https://img.shields.io/badge/boutljy@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)</br>
+
 <hr/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&layout=compact&theme=tokyonight)
