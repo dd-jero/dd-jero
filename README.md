@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=환영합니다!&desc=Dev.Jaeyeong&descAlignY=80"> 
 <hr/>
 
-### <span style='background-color:#fff5b1'> *_Language_*
+### <span style='background-color:#fff5b1'> *_Languages_*
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/Java-FF7900?style=plastic&logo=OpenJDK&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=ffdd54"/></a>
@@ -13,10 +13,14 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=black"/></a>
 
-### <span style='background-color:#fff5b1'> *_Framework_*
+### <span style='background-color:#fff5b1'> *_Framework, Platforms and Libraries_*
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=Numpy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=Numpy&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=plastic&logo=bootstrap&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vue.js-%2335495e?style=plastic&logo=vuedotjs&logoColor=%234FC08D"/></a>
+
  
 ### <span style='background-color:#fff5b1'> *_Environment_*
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white"/></a>
