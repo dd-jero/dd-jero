@@ -1,52 +1,77 @@
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=Hello!&desc=LeeJaeYeong&descAlignY=80">
+</div>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=환영합니다!&desc=Dev.Jaeyeong&descAlignY=80"> 
-<hr/>
-
-### <span style='background-color:#fff5b1'> *_Languages_*
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54"/></a>
-<img src="https://img.shields.io/badge/Java-FF7900?style=plastic&logo=OpenJDK&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=ffdd54"/></a>
-<img src="https://img.shields.io/badge/C%23-512BD4.svg?style=plastic&logo=csharp&logoColor=ffdd54"/></a><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=yellow"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=yellow"/></a>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=black"/></a>
-
-### <span style='background-color:#fff5b1'> *_Framework, Platforms and Libraries_*
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=Numpy&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=plastic&logo=bootstrap&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vue.js-%2335495e?style=plastic&logo=vuedotjs&logoColor=%234FC08D"/></a>
-
  
-### <span style='background-color:#fff5b1'> *_Environment_*
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&hide_progress=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)  
+ 
+</div>
 
-### <span style='background-color:#fff5b1'> *_Tool_*
-<img src="https://img.shields.io/badge/eclipse-5C2D91?style=flat&logo=eclipseide&logoColor=#2C2255"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=VisualStudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Autodesk-0696D7?style=plastic&logo=Autodesk&logoColor=yellow"/></a>
 
-### <span style='background-color:#fff5b1'> *_Collaboration_*
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.notion.so/9ec0de93c06b4404a53795207064082c?v=02343f7e501241d1937f252640b685b4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/></a>
+ ## Languages
+<div>  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</div>
 
-### <span style='background-color:#fff5b1'> *_Information_*
-[![Instagram](https://img.shields.io/badge/jae0.02-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jae0.02/)
-![Gmail](https://img.shields.io/badge/boutljy@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)</br>
+
+## Frameworks, Libraries and Platforms
+
+### Robotics
+<div>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/>  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/>  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+</div>
+
+
+### AI/ML
+<div>
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</div>
+
+### Backend
+<div>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+</div>
+
+### Infra
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+
+## Environment
+<div>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+</div>
+
+##  Tool
+<div>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
+</div>
+
+
+## Collaboration
+<div>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
+</div>
 
 <hr/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&layout=compact&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)
-[![Jaeyoung's github stats](https://github-readme-stats.vercel.app/api?username=dd-jero&show_icons=true&theme=cobalt)](https://github.com/dd-jero/github-readme-stats)
-</div>
 
 
