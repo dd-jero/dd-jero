@@ -1,14 +1,6 @@
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&fontSize=45&animation=blinking&fontColor=FFEBCD&text=Hello!&desc=LeeJaeYeong&descAlignY=80">
 </div>
-<hr/>
-
-<div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&hide_progress=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)  
- 
-</div>
-
 
  ## Languages
 <div>  
@@ -73,5 +65,11 @@
 </div>
 
 <hr/>
+
+<div align="center">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&hide_progress=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)
+ 
+</div>
 
 
