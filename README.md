@@ -68,7 +68,7 @@
 
 <div align="center">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&hide_progress=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jero&hide_progress=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boutljy0407)](https://solved.ac/boutljy0407) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sigurd0407)](https://solved.ac/sigurd0407) 
  
 </div>
 
